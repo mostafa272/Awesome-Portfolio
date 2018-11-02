@@ -39,5 +39,13 @@ flexible with customizable settings.
 
    7. Limiting the length of article intro text
 
-   8. Using a pretty style for displaying the items.
+   8. Using a pretty style for displaying the items.                        
+   
+   ## Documentation               
+                     
+   https://github.com/mostafa272/Awesome-Portfolio/wiki/Documentation
+   
+   ## Demo                 
+                        
+  https://github.com/mostafa272/Awesome-Portfolio/wiki/Demo
 
