@@ -1,0 +1,20 @@
+﻿<updates>
+	<update>
+		<name>Awesome Portfolio</name>
+		<description>The Awesome Portfolio is simple module that displays Joomla articles as portfolios based on different filters.
+It is a very useful and applicable extension for news website, company websites, shopping websites and other
+websites that work with portfolios or filterable items</description>
+		<element>mod_awesomeportfolio</element>
+		<type>module</type>
+		<version>1.0</version>
+		<infourl title="Awesome Portfolio">https://github.com/mostafa272/Awesome-Portfolio/issues/1</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/mostafa272/Awesome-Portfolio/files/2541342/mod_awesomeportfolio.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<targetplatform name="joomla" version="3.[2345678]" />
+		<php_minimum>5.3.10</php_minimum>
+	</update>
+</updates>
