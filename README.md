@@ -25,7 +25,7 @@ flexible with customizable settings.
 
   **Some Features of The Awesome Portfolio:**
 
-   1. Displaying posts based on tags, categories and authors
+   1. Displaying articles based on tags, categories and authors
 
    2. Gainig AJAX method for loading more articles
 
