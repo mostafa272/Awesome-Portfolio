@@ -7,7 +7,12 @@ Download mod_awesomeportfolio.zip file and install it like other Joomla extensio
 you have to extract it to find mod_awesomeportfolio.zip file.
 
 
-## Donate to support us                                     
+## Donate to support us                
+
+**Paypal:**            
+https://paypal.me/MShahiri                
+
+**Bitcoin:**    
                                                                    
 [![Donate with Bitcoin](https://en.cryptobadges.io/badge/small/16f1DStB3YG3R4BMTa1zGYRxN9i7FAqtUX)](https://en.cryptobadges.io/donate/16f1DStB3YG3R4BMTa1zGYRxN9i7FAqtUX)
                                                    
